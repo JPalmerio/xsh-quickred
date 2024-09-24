@@ -1,0 +1,14 @@
+/Users/palmerio/Code_projects/xsh-quickred/VIS/archive/XSHOO.2024-02-19T04:28:26.616.fits	OBJECT_SLIT_NOD_VIS
+/Users/palmerio/Code_projects/xsh-quickred/VIS/archive/XSHOO.2024-02-19T04:50:06.565.fits	OBJECT_SLIT_NOD_VIS
+/Users/palmerio/Code_projects/xsh-quickred/VIS/archive/XSHOO.2024-02-19T05:35:48.624.fits	OBJECT_SLIT_NOD_VIS
+/Users/palmerio/Code_projects/xsh-quickred/VIS/archive/XSHOO.2024-02-19T05:14:10.675.fits	OBJECT_SLIT_NOD_VIS
+/Users/palmerio/Code_projects/xsh-quickred/VIS/static_calibs/SPECTRAL_FORMAT_TAB_VIS.fits	SPECTRAL_FORMAT_TAB_VIS
+/Users/palmerio/Code_projects/xsh-quickred/VIS/static_calibs/MASTER_FLAT_SLIT_VIS.fits	MASTER_FLAT_SLIT_VIS
+/Users/palmerio/Code_projects/xsh-quickred/VIS/static_calibs/MASTER_BIAS_VIS.fits	MASTER_BIAS_VIS
+/Users/palmerio/Code_projects/xsh-quickred/VIS/static_calibs/ORDER_TAB_EDGES_SLIT_VIS.fits	ORDER_TAB_EDGES_SLIT_VIS
+/Users/palmerio/Code_projects/xsh-quickred/VIS/static_calibs/XSH_MOD_CFG_OPT_2D_VIS.fits	XSH_MOD_CFG_OPT_2D_VIS
+/Users/palmerio/Code_projects/xsh-quickred/VIS/static_calibs/BP_MAP_RP_VIS_1x2.fits	MASTER_BP_MAP_VIS
+/Users/palmerio/Code_projects/xsh-quickred/VIS/static_calibs/DISP_TAB_VIS.fits	DISP_TAB_VIS
+/Users/palmerio/Code_projects/xsh-quickred/VIS/static_calibs/xsh_star_catalog_vis.fits	FLUX_STD_CATALOG_VIS
+/Users/palmerio/Code_projects/xsh-quickred/VIS/static_calibs/RESPONSE_MERGE1D_SLIT_VIS.fits	RESPONSE_MERGE1D_SLIT_VIS
+/Users/palmerio/Code_projects/xsh-quickred/VIS/static_calibs/xsh_paranal_extinct_model_vis.fits	ATMOS_EXT_VIS

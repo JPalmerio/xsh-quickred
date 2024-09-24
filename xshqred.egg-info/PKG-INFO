@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: xshqred
+Version: 2.0.0
+Summary: Xshooter Quick Reduction scripts
+Author-email: Jesse Palmerio <jesse.palmerio@obspm.fr>
+License: GNU General Public License v3 (GPLv3)
+Project-URL: repository, https://github.com/JPalmerio/xsh-quickred
+Classifier: Development Status :: 4 - Beta
+Classifier: Topic :: Scientific/Engineering :: Astronomy
+Classifier: Intended Audience :: Science/Research
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Requires-Python: >=3.10
+Requires-Dist: setuptools>=67.7.0
+Requires-Dist: numpy
+Requires-Dist: astropy

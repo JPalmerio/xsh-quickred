@@ -1,0 +1,14 @@
+/Users/palmerio/Code_projects/xsh-quickred/UVB/archive/XSHOO.2024-02-19T04:50:01.364.fits	OBJECT_SLIT_NOD_UVB
+/Users/palmerio/Code_projects/xsh-quickred/UVB/archive/XSHOO.2024-02-19T04:28:21.466.fits	OBJECT_SLIT_NOD_UVB
+/Users/palmerio/Code_projects/xsh-quickred/UVB/archive/XSHOO.2024-02-19T05:35:43.424.fits	OBJECT_SLIT_NOD_UVB
+/Users/palmerio/Code_projects/xsh-quickred/UVB/archive/XSHOO.2024-02-19T05:14:05.485.fits	OBJECT_SLIT_NOD_UVB
+/Users/palmerio/Code_projects/xsh-quickred/UVB/static_calibs/SPECTRAL_FORMAT_TAB_UVB.fits	SPECTRAL_FORMAT_TAB_UVB
+/Users/palmerio/Code_projects/xsh-quickred/UVB/static_calibs/MASTER_FLAT_SLIT_UVB.fits	MASTER_FLAT_SLIT_UVB
+/Users/palmerio/Code_projects/xsh-quickred/UVB/static_calibs/MASTER_BIAS_UVB.fits	MASTER_BIAS_UVB
+/Users/palmerio/Code_projects/xsh-quickred/UVB/static_calibs/ORDER_TAB_EDGES_SLIT_UVB.fits	ORDER_TAB_EDGES_SLIT_UVB
+/Users/palmerio/Code_projects/xsh-quickred/UVB/static_calibs/XSH_MOD_CFG_OPT_2D_UVB.fits	XSH_MOD_CFG_OPT_2D_UVB
+/Users/palmerio/Code_projects/xsh-quickred/UVB/static_calibs/BP_MAP_RP_UVB_1x2.fits	MASTER_BP_MAP_UVB
+/Users/palmerio/Code_projects/xsh-quickred/UVB/static_calibs/DISP_TAB_UVB.fits	DISP_TAB_UVB
+/Users/palmerio/Code_projects/xsh-quickred/UVB/static_calibs/xsh_star_catalog_uvb.fits	FLUX_STD_CATALOG_UVB
+/Users/palmerio/Code_projects/xsh-quickred/UVB/static_calibs/xsh_paranal_extinct_model_uvb.fits	ATMOS_EXT_UVB
+/Users/palmerio/Code_projects/xsh-quickred/UVB/static_calibs/RESPONSE_MERGE1D_SLIT_UVB.fits	RESPONSE_MERGE1D_SLIT_UVB

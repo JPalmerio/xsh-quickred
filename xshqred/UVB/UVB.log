@@ -1,0 +1,34 @@
+Pipeline started.
+
+Start: xsh_scired_slit_nod
+	SOF-file /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_UVB.sof created.
+	Executing: esorex --suppress-prefix=FALSE  xsh_scired_slit_nod   /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_UVB.sof
+	Esorex completed.
+
+	Renaming Outputfiles:
+	out_0000.fits -> /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_ORDER2D_UVB_UVB_1x2_100k.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_ORDER2D_UVB_UVB_1x2_100k.fits with tag SCI_SLIT_ORDER2D_UVB added.
+	out_0001.fits -> /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_ORDER1D_UVB_UVB_1x2_100k.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_ORDER1D_UVB_UVB_1x2_100k.fits with tag SCI_SLIT_ORDER1D_UVB added.
+	out_0002.fits -> /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_MERGE2D_UVB_UVB_1x2_100k.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_MERGE2D_UVB_UVB_1x2_100k.fits with tag SCI_SLIT_MERGE2D_UVB added.
+	out_0003.fits -> /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_MERGE1D_UVB_UVB_1x2_100k.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_MERGE1D_UVB_UVB_1x2_100k.fits with tag SCI_SLIT_MERGE1D_UVB added.
+	out_0004.fits -> /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_WAVE_MAP_UVB_UVB_1x2_100k.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_WAVE_MAP_UVB_UVB_1x2_100k.fits with tag SCI_SLIT_WAVE_MAP_UVB added.
+	out_0005.fits -> /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_SLIT_MAP_UVB_UVB_1x2_100k.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_SLIT_MAP_UVB_UVB_1x2_100k.fits with tag SCI_SLIT_SLIT_MAP_UVB added.
+	out_0006.fits -> /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_FLUX_ORDER2D_UVB_UVB_1x2_100k.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_FLUX_ORDER2D_UVB_UVB_1x2_100k.fits with tag SCI_SLIT_FLUX_ORDER2D_UVB added.
+	out_0007.fits -> /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_FLUX_ORDER1D_UVB_UVB_1x2_100k.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_FLUX_ORDER1D_UVB_UVB_1x2_100k.fits with tag SCI_SLIT_FLUX_ORDER1D_UVB added.
+	out_0008.fits -> /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_FLUX_MERGE2D_UVB_UVB_1x2_100k.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_FLUX_MERGE2D_UVB_UVB_1x2_100k.fits with tag SCI_SLIT_FLUX_MERGE2D_UVB added.
+	out_0009.fits -> /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_FLUX_MERGE1D_UVB_UVB_1x2_100k.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_SCI_SLIT_FLUX_MERGE1D_UVB_UVB_1x2_100k.fits with tag SCI_SLIT_FLUX_MERGE1D_UVB added.
+
+	Esorex-log saved: /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/esorex_xsh_scired_slit_nod_UVB.log
+	Restartfile saved: /Users/palmerio/Code_projects/xsh-quickred/UVB/Output/xsh_scired_slit_nod_UVB.restart
+End: xsh_scired_slit_nod
+
+Pipeline finished.

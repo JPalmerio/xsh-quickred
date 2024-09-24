@@ -1,0 +1,34 @@
+Pipeline started.
+
+Start: xsh_scired_slit_nod
+	SOF-file /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_NIR.sof created.
+	Executing: esorex --suppress-prefix=FALSE  xsh_scired_slit_nod   /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_NIR.sof
+	Esorex completed.
+
+	Renaming Outputfiles:
+	out_0000.fits -> /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_ORDER2D_NIR_NIR_x_.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_ORDER2D_NIR_NIR_x_.fits with tag SCI_SLIT_ORDER2D_NIR added.
+	out_0001.fits -> /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_ORDER1D_NIR_NIR_x_.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_ORDER1D_NIR_NIR_x_.fits with tag SCI_SLIT_ORDER1D_NIR added.
+	out_0002.fits -> /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_MERGE2D_NIR_NIR_x_.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_MERGE2D_NIR_NIR_x_.fits with tag SCI_SLIT_MERGE2D_NIR added.
+	out_0003.fits -> /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_MERGE1D_NIR_NIR_x_.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_MERGE1D_NIR_NIR_x_.fits with tag SCI_SLIT_MERGE1D_NIR added.
+	out_0004.fits -> /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_WAVE_MAP_NIR_NIR_x_.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_WAVE_MAP_NIR_NIR_x_.fits with tag SCI_SLIT_WAVE_MAP_NIR added.
+	out_0005.fits -> /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_SLIT_MAP_NIR_NIR_x_.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_SLIT_MAP_NIR_NIR_x_.fits with tag SCI_SLIT_SLIT_MAP_NIR added.
+	out_0006.fits -> /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_FLUX_ORDER2D_NIR_NIR_x_.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_FLUX_ORDER2D_NIR_NIR_x_.fits with tag SCI_SLIT_FLUX_ORDER2D_NIR added.
+	out_0007.fits -> /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_FLUX_ORDER1D_NIR_NIR_x_.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_FLUX_ORDER1D_NIR_NIR_x_.fits with tag SCI_SLIT_FLUX_ORDER1D_NIR added.
+	out_0008.fits -> /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_FLUX_MERGE2D_NIR_NIR_x_.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_FLUX_MERGE2D_NIR_NIR_x_.fits with tag SCI_SLIT_FLUX_MERGE2D_NIR added.
+	out_0009.fits -> /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_FLUX_MERGE1D_NIR_NIR_x_.fits
+	File /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_SCI_SLIT_FLUX_MERGE1D_NIR_NIR_x_.fits with tag SCI_SLIT_FLUX_MERGE1D_NIR added.
+
+	Esorex-log saved: /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/esorex_xsh_scired_slit_nod_NIR.log
+	Restartfile saved: /Users/palmerio/Code_projects/xsh-quickred/NIR/Output/xsh_scired_slit_nod_NIR.restart
+End: xsh_scired_slit_nod
+
+Pipeline finished.

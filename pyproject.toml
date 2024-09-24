@@ -1,0 +1,42 @@
+[build-system]
+  requires = ["setuptools"]
+  build-backend = "setuptools.build_meta"
+
+[project]
+name = 'xshqred'
+description = 'Xshooter Quick Reduction scripts'
+dynamic = ["version"]
+authors = [
+  { name = 'Jesse Palmerio', email='jesse.palmerio@obspm.fr' },
+]
+requires-python = '>=3.10'
+dependencies = [
+    "setuptools>=67.7.0",
+    "numpy",
+    "astropy",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Topic :: Scientific/Engineering :: Astronomy",
+    "Intended Audience :: Science/Research",
+    "Natural Language :: English",
+    "Programming Language :: Python :: 3.10",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+]
+license = {text = "GNU General Public License v3 (GPLv3)"}
+
+[project.urls]
+repository = 'https://github.com/JPalmerio/xsh-quickred'
+
+[project.scripts]
+xshqred = "xshqred.xsh_quickrun:main"
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.dynamic]
+version = {attr = "xshqred.__version__"}
+
+[tool.setuptools.packages.find]
+include = ["xshqred", "xshqred.*"]
+namespaces = false
