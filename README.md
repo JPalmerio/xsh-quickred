@@ -3,7 +3,7 @@ It is largely based on the work of [Jonatan Selsing](https://github.com/jselsing
 All credit for the original scripts goes to Martin Sparre.
 
 # Prerequisites
-This package relies the ESO X-shooter pipeline and static calibration files.
+This package relies on the ESO X-shooter pipeline and static calibration files.
 Information on the ESO pipelines can found at https://www.eso.org/sci/software/pipelines/, as well as instructions on how to install.
 This quick-reduction pipeline relies specifically on Esorex - the ESO recipe excecution framework.
 Make sure these are installed and functional before installing this package.
